@@ -1,6 +1,6 @@
 ## Machine Learning Project - Exoplanet Exploration
 
-    The deployed assignment utilizes the sklearn library to train models on a set of data and used to make predictions. 
+    The deployed project utilizes the sklearn library to train models on a set of data and used to make predictions. 
       
 Preprocess the raw data (Preprocessed the dataset prior to fitting the model. Performed feature selection and removed unnecessary features. Used MinMaxScaler to scale the numerical data. Separated the data into training and testing data), 
 
