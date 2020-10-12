@@ -14,7 +14,7 @@ training and test set; Numerical data is scaled accordingly)
 
 Model Creation (Creates, trains, and tests at least 2 different classification models; Correctly sets X and y (koi_disposition) variables
 Feature Selection (Uses some form of feature selection method to identify insignificant variables [feature_importance, RFE,
-backwards elimination, etc.] Remove insignificant variables and retrain models with thesignificant features)
+backwards elimination, etc.] Removed insignificant variables and retrained models with the significant features)
 
 Model Tuning ( Uses GridSearch or some hyperparameter tuning to find the best parameters for the model; The tuned model is used to make the final exoplanet prediction)
 
